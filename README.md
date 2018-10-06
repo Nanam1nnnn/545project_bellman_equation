@@ -1,2 +1,3 @@
-# my_first_git
-project for git test
+##Read me
+
+This is the STAT 545 course project which talks about Bellman equation.
