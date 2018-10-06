@@ -22,6 +22,6 @@ The equation means that if we have the time from 1 to T, given a specific time $
 
 [Qihua 分享的书](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
-Wikipedia
+[Wikipedia](https://en.wikipedia.org/wiki/Bellman_equation)
 
 
